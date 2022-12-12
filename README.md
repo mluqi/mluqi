@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [ColorBlindTest](https://github.com/mluqi/colorblind-test)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mluqi10/](https://www.linkedin.com/in/mluqi10/)
-
 - 📫 How to reach me **mluqi12@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mluqi10/](https://www.linkedin.com/in/mluqi10/)

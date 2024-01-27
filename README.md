@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad Luqi Wiharto</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mluqi&label=Profile%20views&color=0e75b6&style=flat" alt="mluqi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mluqi" alt="mluqi" /></a> </p>
 
-- 🔭 I’m currently working on [ColorBlindTest](https://github.com/mluqi/colorblind-test)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **React, Vue, Front End and Back end Developer at Dicoding Academy Indonesia**
+- 🌱 I’m currently learning **React, Vue, Front End and Back end Developer**
 
-- 👯 I’m looking to collaborate on [ColorBlindTest](https://github.com/mluqi/colorblind-test)
+- 👯 I’m looking to collaborate on 
 
 - 📫 How to reach me **mluqi12@gmail.com**
 
